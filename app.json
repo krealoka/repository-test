@@ -1,8 +1,18 @@
-[{
+[
+	{
+	"id": 2,
+	"title": "PR Ade",
+	"description": "Ayo berpetualang bersama Ade, bantu dia mengerjakan PR nya! Game ini bercerita tentang seorang anak sekolah dasar bernama Ade. Suatu waktu ia lupa mengerjakan Pekerjaan Rumahnya karena ketiduran, kemudian ia bermimpi berada di suatu tempat yang tidak ia ketahui. Untuk kembali dari mimpinya ia harus menjawab pertanyaan - pertanyaan yang kurang lebih sama seperti Pekerjaan Rumah yang belum ia kerjakan. Ayo bantu Ade!",
+	"lang_id": 1,
+	"package_id": "serabutan.dev.whatsappdirect",
+	"image_thumb": "https://lh5.ggpht.com/MT0livhe-81McEgYXL-J00TX9VU5E8fkS5IBwAYtHqRJizhw7XzOwsR1TGqOZD4yLio=w300-rw"
+	},
+	{
 	"id": 1,
 	"title": "WA-Direct for WhatsApp",
 	"description": "Checking the mobile phone numbers of other people, whether it has WhatsApp account or not.",
 	"lang_id": 0,
 	"package_id": "serabutan.dev.whatsappdirect",
 	"image_thumb": "https://lh3.googleusercontent.com/gh6B3KAAxto6qkIwYO60EyCAmQM42-QV4zhDcwI1MqJATPdBUhDPDsbQLkgQrIaOmA=w300-rw"
-}]
+	}
+]
