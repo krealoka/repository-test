@@ -1,8 +1,16 @@
 [
 	{
+	"id": 3,
+	"title": "Tambal Ban & Bengkel",
+	"description": "Aplikasi pencari lokasi Tambal Ban dan Bengkel motor / mobil berdasarkan lokasi terdekat.",
+	"lang_id": 1,
+	"package_id": "dev.serabutan.tambalbanbengkel",
+	"image_thumb": "https://lh4.ggpht.com/9-ism5BN6HxiCSLCzdjhTEdazRvw1qDAb7JTYiAj_2dWqGt3JmL6bQiU4horq2AmVN8=w300-rw"
+	},
+	{
 	"id": 2,
 	"title": "PR Ade",
-	"description": "Ayo berpetualang bersama Ade, bantu dia mengerjakan PR nya! Game ini bercerita tentang seorang anak sekolah dasar bernama Ade. Suatu waktu ia lupa mengerjakan Pekerjaan Rumahnya karena ketiduran, kemudian ia bermimpi berada di suatu tempat yang tidak ia ketahui. Untuk kembali dari mimpinya ia harus menjawab pertanyaan - pertanyaan yang kurang lebih sama seperti Pekerjaan Rumah yang belum ia kerjakan. Ayo bantu Ade!",
+	"description": "Ayo berpetualang bersama Ade, bantu dia mengerjakan PR nya!",
 	"lang_id": 1,
 	"package_id": "dev.serabutan.prade",
 	"image_thumb": "https://lh5.ggpht.com/MT0livhe-81McEgYXL-J00TX9VU5E8fkS5IBwAYtHqRJizhw7XzOwsR1TGqOZD4yLio=w300-rw"
