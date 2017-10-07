@@ -10,6 +10,24 @@
 		"title": "Baby Shark",
 		"video_id": "XqZsoesa55w",
 		"description": "Baby shark, doo doo doo doo doo doo"
+	},
+	{
+		"id": 3,
+		"title": "Mongkey Banana",
+		"video_id": "7DYjfjaZGas",
+		"description": "Baby monkey, banana-na-nas"
+	},
+	{
+		"id": 4,
+		"title": "The Penguin Dance",
+		"video_id": "JkiglO98YYo",
+		"description": "Penguins attention!"
+	},
+	{
+		"id": 5,
+		"title": "Lagu Ulang Tahun Anak",
+		"video_id": "WtLXpfPpb-k",
+		"description": "Happy Birthday"
 	}
 	
 ]
