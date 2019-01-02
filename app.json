@@ -1,10 +1,70 @@
-[
-	{
-	"id": 2,
-	"title": "WA-Direct for WhatsApp",
-	"description": "Checking the mobile phone numbers of other people, whether it has WhatsApp account or not.",
-	"lang_id": 0,
-	"package_id": "serabutan.dev.whatsappdirect",
-	"image_thumb": "https://lh3.googleusercontent.com/gh6B3KAAxto6qkIwYO60EyCAmQM42-QV4zhDcwI1MqJATPdBUhDPDsbQLkgQrIaOmA=w300-rw"
-	}
-]
+{
+	"add_1": {
+		"id": "6246000458412370~2764027850",
+		"banner": "6246000458412370/7011939218",
+		"inter": "6246000458412370/8633455727",
+		"reward": "6246000458412370/7194227458"
+	},
+	"add_2": {
+		"id": "6246000458412370~2764027850",
+		"banner": "6246000458412370/7011939218",
+		"inter": "6246000458412370/8633455727",
+		"reward": "6246000458412370/7194227458"
+	},
+	"request": [{
+			"id": 1,
+			"type": "banner",
+			"load": 1
+		},
+		{
+			"id": 2,
+			"type": "inter",
+			"load": 1
+		},
+		{
+			"id": 3,
+			"type": "banner",
+			"load": 1
+		},
+		{
+			"id": 4,
+			"type": "banner",
+			"load": 1
+		},
+		{
+			"id": 5,
+			"type": "inter",
+			"load": 1
+		},
+		{
+			"id": 6,
+			"type": "banner",
+			"load": 1
+		},
+		{
+			"id": 7,
+			"type": "inter",
+			"load": 1
+		},
+		{
+			"id": 8,
+			"type": "banner",
+			"load": 1
+		},
+		{
+			"id": 9,
+			"type": "inter",
+			"load": 1
+		},
+		{
+			"id": 10,
+			"type": "banner",
+			"load": 1
+		},
+		{
+			"id": 11,
+			"type": "reward",
+			"load": 1
+		}
+	]
+}
